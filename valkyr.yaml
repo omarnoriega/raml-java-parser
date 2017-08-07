@@ -1,0 +1,8 @@
+product: raml-java-parser
+component: core
+
+version: 1.0.14-SNAPSHOT
+strategy: mvn
+requires:
+  db: false
+  deployment: false
